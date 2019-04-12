@@ -8,7 +8,15 @@ body{
 footer{
   margin-top: 150px;
 }
-
+.fixed{
+  position:fixed;
+  bottom:0;
+  right:0;
+  width: 300px;
+}
+.bg{
+  background-image: url("img/bg.jpg");
+}
 .content{
   margin-top: 100px;
 }
