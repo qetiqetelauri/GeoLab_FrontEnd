@@ -1,0 +1,30 @@
+body{
+  margin: 0 auto;
+  width: 100%;
+}
+
+
+.logos img{
+  width: 100px;
+  height: 100px;
+}
+body{
+  font-family: bpg_arialregular;
+}
+
+.fixed{
+  position:fixed;
+  bottom:0;
+  right:0;
+  width: 300px;
+}
+.bg{
+  background-image: url("img/bg.jpg");
+}
+.content{
+  margin-top: 100px;
+}
+.link{
+  text-decoration: none;
+  color:black;
+}
